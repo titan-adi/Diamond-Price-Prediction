@@ -79,17 +79,6 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 # Load the dataset
 data = pd.read_csv('diamonds.csv')
 
-# Data preprocessing
-# ... (preprocessing steps)
-
-# Model training and evaluation
-# ... (model training and evaluation steps)
-
-# Results
-# ... (evaluation results)
-Modeling and Evaluation
-The following models were built and evaluated:
-
 Linear Regression
 Decision Tree Regressor
 Random Forest Regressor
